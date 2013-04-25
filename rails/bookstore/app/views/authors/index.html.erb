@@ -1,0 +1,26 @@
+<h1>Authors</h1>
+
+<p>
+  <%= link_to "Add Author", new_author_path %>
+</p>
+
+<table border="1">
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      &nbsp;
+    </th>
+  </tr>
+  <% @authors.each do |author| %>
+    <tr>
+      <td>
+        <%= author.name %>
+      </td>
+      <td>
+        <%= link_to "Books", author_books_path(author) %>
+      </td>
+    </tr>
+  <% end %>
+</table>

@@ -1,0 +1,8 @@
+<h1>Add Book <small>(<%= @author.name %>)</small></h1>
+
+<%= form_for [@author, @book] do |f| %>
+  <%= render 'shared/error_messages', object: f.object %>
+  <%= f.label :title %>
+  <%= f.text_field :title %>
+  <%= f.submit %>
+<% end %>
