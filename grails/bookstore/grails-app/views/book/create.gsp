@@ -7,7 +7,7 @@
 <h1>Add Book <small>(${author.name})</small></h1>
 
 <g:form action="save">
-  <g:renderErrors bean="${book}"/>
+  <g:render template="/shared/errorMessages" bean="${book}"/>
   <g:hiddenField name="author.id" value="${author.id}"/>
   <label for="title">Title</label>
   <g:textField name="title" size="30"/>

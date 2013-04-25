@@ -15,6 +15,7 @@ class AuthorController {
     def author = new Author(params)
 
     if (author.save()) {
+       flash.notice = "Author saved successfully!"
       redirect(action: 'index')
     }
     else {

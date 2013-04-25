@@ -17,6 +17,8 @@
 		<div>
   		<g:link controller="Author">Home</g:link>
 		</div>
+
+      <g:render template="/shared/notice"/>
 		<g:layoutBody/>
 		<g:javascript library="application"/>
 		<r:layoutResources />

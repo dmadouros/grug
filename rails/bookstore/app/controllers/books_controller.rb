@@ -13,7 +13,7 @@ class BooksController < ApplicationController
     @author = Author.find(params[:author_id])
     @book = @author.books.new(params[:book])
     if @book.save
-      redirect_to author_books_url(@author)
+      redirect_to author_books_url(@author), notice: 'Book saved successfully!'
     else
       render 'new'
     end
