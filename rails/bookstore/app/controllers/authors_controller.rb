@@ -10,7 +10,8 @@ class AuthorsController < ApplicationController
   def create
     @author = Author.new(params[:author])
     if @author.save
-      redirect_to authors_url, notice: 'Author saved successfully!'
+      flash[:notice] = 'Author saved successfully!'
+      redirect_to authors_url
     else
       render 'new'
     end

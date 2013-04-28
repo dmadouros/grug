@@ -8,14 +8,12 @@ class AuthorController {
     [authors: authors]
   }
 
-  def create() {    
-  }
+  def create() {}
 
   def save() {
     def author = new Author(params)
-
     if (author.save()) {
-       flash.notice = "Author saved successfully!"
+      flash.notice = "Author saved successfully!"
       redirect(action: 'index')
     }
     else {
