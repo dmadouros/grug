@@ -1,0 +1,1151 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fol",
+				"followed_id"
+			],
+			[
+				"foll",
+				"follower_id"
+			],
+			[
+				"new",
+				"newer_micropost"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"re",
+				"redirect_to"
+			],
+			[
+				"passo",
+				"password_confirmation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rails/bookstore/app/models/author.rb",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rails/bookstore/spec/models/author_spec.rb",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rails/bookstore/app/controllers/authors_controller.rb",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rails/bookstore/app/views/authors/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails/bookstore/grails-app/domain/bookstore/Author.groovy",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails/bookstore/test/unit/bookstore/AuthorTests.groovy",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails/bookstore/grails-app/controllers/bookstore/AuthorController.groovy",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails/bookstore/grails-app/views/author/index.gsp",
+			"settings":
+			{
+				"buffer_size": 489,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Groovy.sublime-build",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pa:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dmadouros/Desktop/old_machine/Documents/projects/djug/DJUG Jobs Groups Responses",
+		"/Users/dmadouros/bin/setgrails",
+		"/Users/dmadouros/.bash_profile",
+		"/Users/dmadouros/work/rails/loan/app/views/sessions/new.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/models/user.rb",
+		"/Users/dmadouros/work/rails/loan/app/models/item.rb",
+		"/Users/dmadouros/work/rails/loan/app/controllers/dashboard_controller.rb",
+		"/Users/dmadouros/work/rails/loan/app/models/person.rb",
+		"/Users/dmadouros/work/rails/loan/app/controllers/checkouts_controller.rb",
+		"/Users/dmadouros/work/rails/loan/app/views/items/index.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/assets/javascripts/items.js.coffee",
+		"/Users/dmadouros/work/rails/loan/app/controllers/items_controller.rb",
+		"/Users/dmadouros/work/rails/loan/config/routes.rb",
+		"/Users/dmadouros/work/rails/loan/app/views/dashboard/index.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/models/checkout.rb",
+		"/Users/dmadouros/work/rails/loan/app/controllers/sessions_controller.rb",
+		"/Users/dmadouros/work/rails/loan/app/helpers/sessions_helper.rb",
+		"/Users/dmadouros/work/rails/loan/app/assets/stylesheets/items.css.scss",
+		"/Users/dmadouros/work/rails/loan/app/assets/stylesheets/custom.css.scss",
+		"/Users/dmadouros/work/rails/loan/app/views/items/edit.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/items/new.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/people/edit.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/people/index.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/people/new.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/layouts/application.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/helpers/items_helper.rb",
+		"/Users/dmadouros/work/rails/loan/Gemfile",
+		"/Users/dmadouros/work/rails/loan/app/controllers/application_controller.rb",
+		"/Users/dmadouros/work/rails/loan/db/migrate/20130417155257_create_users.rb",
+		"/Users/dmadouros/work/rails/loan/db/schema.rb",
+		"/Users/dmadouros/work/rails/loan/app/assets/javascripts/application.js",
+		"/Users/dmadouros/work/rails/loan/app/controllers/people_controller.rb",
+		"/Users/dmadouros/work/rails/loan/spec/models/item_spec.rb",
+		"/Users/dmadouros/work/rails/loan/db/migrate/20130402234335_create_items.rb",
+		"/Users/dmadouros/work/rails/loan/app/views/assets/edit.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/controllers/assets_controller.rb",
+		"/Users/dmadouros/work/rails/loan/app/models/asset.rb",
+		"/Users/dmadouros/work/rails/loan/spec/models/asset_spec.rb",
+		"/Users/dmadouros/work/rails/loan/app/views/assets/index.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/views/assets/new.html.erb",
+		"/Users/dmadouros/work/rails/loan/app/helpers/application_helper.rb",
+		"/Users/dmadouros/work/rails/loan/app/views/shared/_error_messages.html.erb",
+		"/Users/dmadouros/work/rails/loan/features/step_definitions/people_steps.rb",
+		"/Users/dmadouros/work/rails/loan/.gitignore",
+		"/Users/dmadouros/work/rails/loan/.git/COMMIT_EDITMSG",
+		"/Users/dmadouros/work/rails/loan/public/index.html",
+		"/Users/dmadouros/work/rails/loan/features/people.feature",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/Gemfile",
+		"/Users/dmadouros/work/rails/loan/loan_app.sublime-workspace",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/layouts/application.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/models/user.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/requests/micropost_pages_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/shared/_feed_item.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/controllers/microposts_controller.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/models/user_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/shared/_feed.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/microposts/_micropost.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/controllers/users_controller.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/models/micropost_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/shared/_user_info.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/new.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/edit.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/show.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/lib/tasks/sample_data.rake",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/config/routes.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/factories.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/models/micropost.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/config/application.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/index.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/_user.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/db/migrate/20130331175555_create_microposts.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/support/utilities.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/sessions/new.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/users/_fields.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/features/step_definitions/authentication_steps.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/db/migrate/20130331063034_add_admin_to_users.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/assets/javascripts/application.js",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/spec/spec_helper.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/helpers/application_helper.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/features/signing_in.feature",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/Guardfile",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/controllers/application_controller.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/db/migrate/20130330012614_add_remember_token_to_users.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/config/locales/en.yml",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/app/helpers/users_helper.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/config/environments/production.rb",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/.gitignore",
+		"/Users/dmadouros/work/icdt/trunk/.git/TAG_EDITMSG",
+		"/Users/dmadouros/work/icdt/trunk/.git/COMMIT_EDITMSG",
+		"/Users/dmadouros/work/icdt/selenium3/build.properties",
+		"/Users/dmadouros/work/icdt/selenium3/local_build.properties",
+		"/Users/dmadouros/work/rails/tutorial/sample_app/example_user.rb",
+		"/Users/dmadouros/work/rails/tutorial/first_app/README.md",
+		"/Users/dmadouros/work/rails/tutorial/first_app/.gitignore",
+		"/Users/dmadouros/.rvm/log/ruby-1.9.3-p392/make.log",
+		"/Users/dmadouros/.gemrc",
+		"/Users/dmadouros/work/rails/rails_notes.txt",
+		"/Users/dmadouros/Documents/Guitar Gear/Gear",
+		"/Users/dmadouros/Documents/job_search/Knock 'Em Dead Notes",
+		"/Users/dmadouros/Documents/job_search/Job Descriptions Keywords",
+		"/Users/dmadouros/Documents/job_search/Target Job Deconstruction (TJD)",
+		"/Users/dmadouros/Desktop/old_machine/organization/checklists/tax_information.txt",
+		"/Applications/eviware/soapUI-4.0.0.app/Contents/Info.plist",
+		"/Users/dmadouros/work/icdt/trunk/2gP/grails-app/conf/DataSource.groovy",
+		"/Users/dmadouros/work/icdt/trunk/admin/grails-app/conf/DataSource.groovy",
+		"/Users/dmadouros/.ssh/github_rsa.pub",
+		"/Users/dmadouros/work/git/octobox/octocat.txt",
+		"/Users/dmadouros/work/icdt/story_notes.txt",
+		"/Users/dmadouros/work/test.groovy",
+		"/Users/dmadouros/Dropbox/ICDT/automated_testing_strategy.txt",
+		"/Users/dmadouros/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dmadouros/Library/Application Support/Sublime Text 2/Packages/User/groovy.sublime-build",
+		"/Users/dmadouros/Desktop/hello_world.groovy",
+		"/Users/dmadouros/Library/Application Support/Sublime Text 2/Packages/User/Bash.sublime-build",
+		"/Users/dmadouros/Documents/untitled.txt",
+		"/Users/dmadouros/Documents/sublime_notes.txt",
+		"/Users/dmadouros/work/ruby/hello.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"line",
+			"String",
+			";",
+			"person",
+			"checkouts",
+			"person",
+			"puts",
+			"[Aa]sset",
+			"asset",
+			"assets",
+			"resources",
+			"\n  ",
+			"destroy",
+			"update",
+			"Madouros",
+			"followed_users",
+			"feed_item",
+			"use",
+			"root_paty",
+			"shared/error_messages",
+			"@user",
+			"Foo",
+			"?:",
+			"media_type",
+			"fill_in \"Email\"",
+			"visit signin_path",
+			"Profile",
+			"email",
+			"password_confirmation",
+			"swift_communication_service",
+			"wire_message",
+			"translate_and_send_transaction_message",
+			"translate_and_send_wire_message",
+			"_translate_and_send_wire_message_if_necessary",
+			"certification",
+			" 0.5ea",
+			"decimator",
+			")\n",
+			"2gP",
+			"us1994",
+			"vertically",
+			"find",
+			"insert",
+			"\n  ",
+			"anything",
+			"g",
+			"find",
+			"sensitive",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"item",
+			"[Ii]tem",
+			"item",
+			"object",
+			"swift_jms_service",
+			"certificate",
+			"",
+			"*"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rails/bookstore/app/models/author.rb",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rails/bookstore/spec/models/author_spec.rb",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rails/bookstore/app/controllers/authors_controller.rb",
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rails/bookstore/app/views/authors/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "grails/bookstore/grails-app/domain/bookstore/Author.groovy",
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "grails/bookstore/test/unit/bookstore/AuthorTests.groovy",
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "grails/bookstore/grails-app/controllers/bookstore/AuthorController.groovy",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "grails/bookstore/grails-app/views/author/index.gsp",
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"author_sp",
+				"rails/bookstore/spec/models/author_spec.rb"
+			],
+			[
+				"authortest",
+				"grails/bookstore/test/unit/bookstore/AuthorTests.groovy"
+			],
+			[
+				"autho",
+				"grails/bookstore/grails-app/domain/bookstore/Author.groovy"
+			],
+			[
+				"author",
+				"rails/bookstore/app/models/author.rb"
+			],
+			[
+				"authorscon",
+				"rails/bookstore/app/controllers/authors_controller.rb"
+			],
+			[
+				"authorcon",
+				"grails/bookstore/grails-app/controllers/bookstore/AuthorController.groovy"
+			],
+			[
+				"index",
+				"rails/bookstore/app/views/authors/index.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"books",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"book",
+				"app/models/book.rb"
+			],
+			[
+				"au",
+				"app/models/author.rb"
+			],
+			[
+				"person",
+				"app/models/person.rb"
+			],
+			[
+				"dash",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"item",
+				"app/models/item.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"new",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"check",
+				"app/models/checkout.rb"
+			],
+			[
+				"ind",
+				"app/views/dashboard/index.html.erb"
+			],
+			[
+				"itemscon",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/items/index.html.erb"
+			],
+			[
+				"sessionscon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"session_hl",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"checkout",
+				"app/models/checkout.rb"
+			],
+			[
+				"applih",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"in",
+				"app/views/dashboard/index.html.erb"
+			],
+			[
+				"i",
+				"app/models/item.rb"
+			],
+			[
+				"chcon",
+				"app/controllers/checkouts_controller.rb"
+			],
+			[
+				"appht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ses",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sc",
+				"db/schema.rb"
+			],
+			[
+				"peco",
+				"app/controllers/people_controller.rb"
+			],
+			[
+				"apjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"itemcon",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"edit",
+				"app/views/items/edit.html.erb"
+			],
+			[
+				"peopcon",
+				"app/controllers/people_controller.rb"
+			],
+			[
+				"itcon",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"item.css",
+				"app/assets/stylesheets/items.css.scss"
+			],
+			[
+				"item_sp",
+				"spec/models/item_spec.rb"
+			],
+			[
+				"it",
+				"app/models/item.rb"
+			],
+			[
+				"asset",
+				"app/models/asset.rb"
+			],
+			[
+				"peopl",
+				"app/controllers/people_controller.rb"
+			],
+			[
+				"ass_c",
+				"app/controllers/assets_controller.rb"
+			],
+			[
+				"applichelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"asse",
+				"app/models/asset.rb"
+			],
+			[
+				"ass",
+				"spec/models/asset_spec.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"step",
+				"features/step_definitions/people_steps.rb"
+			],
+			[
+				"_err",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"applihelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"fea",
+				"features/people.feature"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"relation",
+				"app/models/relationship.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"relasp",
+				"spec/models/relationship_spec.rb"
+			],
+			[
+				"create",
+				"db/migrate/20130401035542_create_relationships.rb"
+			],
+			[
+				"_feed_item",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"micon",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"mipasp",
+				"spec/requests/micropost_pages_spec.rb"
+			],
+			[
+				"_fee",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"_mi",
+				"app/views/microposts/_micropost.html.erb"
+			],
+			[
+				"miccon",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"_feit",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"_feed",
+				"app/views/shared/_feed.html.erb"
+			],
+			[
+				"spc",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"staticsp",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"use_sp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"statcon",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"_mic",
+				"app/views/shared/_micropost_form.html.erb"
+			],
+			[
+				"_user_in",
+				"app/views/shared/_user_info.html.erb"
+			],
+			[
+				"micsp",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"seshelp",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"authsp",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sample",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"usc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userpasp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"factori",
+				"spec/factories.rb"
+			],
+			[
+				"user_sp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"mic",
+				"app/models/micropost.rb"
+			],
+			[
+				"micro",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"create_mi",
+				"db/migrate/20130331175555_create_microposts.rb"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"user_con",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_fie",
+				"app/views/users/_fields.html.erb"
+			],
+			[
+				"util",
+				"spec/support/utilities.rb"
+			],
+			[
+				"auth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"user_pa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"add_admin",
+				"db/migrate/20130331063034_add_admin_to_users.rb"
+			],
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"samp",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"_he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sescon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"usspp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"_header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"authpage",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"userpa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"applicationhelper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"_step",
+				"features/step_definitions/authentication_steps.rb"
+			],
+			[
+				"signing",
+				"features/signing_in.feature"
+			],
+			[
+				"ausp",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"sehe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"to_user",
+				"db/migrate/20130330012614_add_remember_token_to_users.rb"
+			],
+			[
+				"_hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"userpagsp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"users_help",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"applihtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				".",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,32 @@
+Notes
+======
+ - ask audience if they know/recognize/are familiar with Java
+ - a brief history of grails (joke)
+
+TODO
+----
+ - Come up with something for similarities
+ - checkin changes
+
+Similarities
+------------
+ - transactions
+ - validation v. constraints
+ - plugins v. gems
+ - mvc
+ - flash
+ - convention over configuration
+ - queries
+ - gsp v. erb
+ - I18N
+ - asset pipeline v. resources
+
+Differences
+------------
+ - services
+ - test speed
+ - custom mapping to (legacy) database
+ - war deployment
+ - sparse models v. domain classes (active record v. domain model)
+ - hot deployment support
+ - db migrations (via plugin)
